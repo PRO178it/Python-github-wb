@@ -2,7 +2,7 @@
 ## Area
 - Circle: S = πR²
 - Rectangle: S = ab
-- Square: S = a²
+- *Square*: S =_a²_
 
 ## Perimeter
 - Circle: P = 2πR
